@@ -21,4 +21,3 @@ while True:
         i+=2
 
 print(printing the line at x)
-
